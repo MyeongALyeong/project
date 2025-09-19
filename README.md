@@ -1,3 +1,4 @@
+![원숭이사진](./longhairmonkey.jpg)
 # README 파일이란?
 
 이곳은 *저장소에 대한 설명*을 작성합니다.
